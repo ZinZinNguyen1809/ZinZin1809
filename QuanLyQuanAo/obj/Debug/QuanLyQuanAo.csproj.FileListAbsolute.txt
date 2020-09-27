@@ -1,0 +1,13 @@
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe.config
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.pdb
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csprojAssemblyReference.cache
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.fLogin.resources
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.GenerateResource.cache
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.CoreCompileInputs.cache
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.exe
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.pdb
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.fAccountProfile.resources
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.fTableManager.resources
+G:\GUI\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.fAdmin.resources
